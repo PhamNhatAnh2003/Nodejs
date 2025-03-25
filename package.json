@@ -1,0 +1,30 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "hihi",
+  "main": "app.js",
+  "scripts": {
+    "start":"nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PhamNhatAnh2003/Nodejs.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Anhpn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PhamNhatAnh2003/Nodejs/issues"
+  },
+  "homepage": "https://github.com/PhamNhatAnh2003/Nodejs#readme",
+  "dependencies": {
+    "expess": "^0.0.1-security",
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
